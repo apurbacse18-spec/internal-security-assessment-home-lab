@@ -1,0 +1,22 @@
+# Virtual machines and large lab files
+kali-linux-2025.4-vmware-amd64*/
+metasploitable 2/
+*.7z
+*.zip
+*.rar
+*.iso
+*.ova
+*.ovf
+*.vmdk
+*.vmem
+*.vmsn
+*.vmss
+*.vmx
+
+# System files
+Thumbs.db
+.DS_Store
+
+# Editor files
+.vscode/
+.idea/
